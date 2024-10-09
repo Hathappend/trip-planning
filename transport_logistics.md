@@ -36,7 +36,7 @@ Berikut adalah rencana transportasi dan akomodasi terperinci untuk perjalanan da
 
 ### Rencana Anggaran Keseluruhan:
 
-| Item                             | Biaya Per Item   |    Total     
+| Item                             | Biaya Per Item   |    Total     |
 |----------------------------------|------------------|--------------|
 | **Sewa Mobil (PP)**              | Rp 600.000/hari  | Rp 1.200.000 |
 | **Tol dan Parkir**               | -                | Rp 120.000   |
