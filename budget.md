@@ -44,8 +44,7 @@ Rekreasi: Rp 540.000
 Anggaran Tak Terduga: Rp 200.000
 
 **Total Anggaran (Mobil Pribadi):
-Rp 2.790.000
-**
+Rp 2.790.000**
 
 **Total Anggaran (Transportasi Umum):
 Rp 3.030.000**
