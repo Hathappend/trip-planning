@@ -1,4 +1,4 @@
-**Anggaran Rencana Trip Dago ke Pantai Garut**
+**Anggaran Rencana Awal Trip Dago ke Pantai Garut**
 
 1. Tanggal Perjalanan
 Tanggal Berangkat: 9-10-2024
